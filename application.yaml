@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/jessicalemos/python-app-infra
     targetRevision: HEAD
-    path: apps/python-app
+    path: k8s
   destination:
     server: https://kubernetes.default.svc
     namespace: default
