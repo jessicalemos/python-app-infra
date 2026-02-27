@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: python-app
-          image: python-app:latest
+          image: lemosj98/python-app:3f4b1a5
           ports:
             - containerPort: 5000
           imagePullPolicy: IfNotPresent
