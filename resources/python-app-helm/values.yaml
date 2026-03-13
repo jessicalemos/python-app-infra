@@ -1,6 +1,6 @@
 image:
   repository: jessicalemos/python-app
-  version: latest
+  version: 4c4777e
 
 replica: 2
 
