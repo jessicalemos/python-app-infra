@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: python-app
-          image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+          image: "{{ .Values.image.repository }}:{{ .Values.image.version }}"
           ports:
             - containerPort: 5000
           imagePullPolicy: Always
