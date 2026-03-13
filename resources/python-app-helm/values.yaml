@@ -1,5 +1,5 @@
 image:
-  repository: jessicalemos/python-app
+  repository: lemosj98/python-app
   version: 4c4777e
 
 replica: 2
