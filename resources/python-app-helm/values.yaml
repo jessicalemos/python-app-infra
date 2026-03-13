@@ -1,0 +1,7 @@
+image:
+  repository: jessicalemos/python-app
+  version: latest
+
+replica: 2
+
+app: python-app
