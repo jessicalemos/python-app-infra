@@ -2,6 +2,6 @@ image:
   repository: lemosj98/python-app
   version: 4c4777e
 
-replica: 2
+replica: 1
 
 app: python-app
